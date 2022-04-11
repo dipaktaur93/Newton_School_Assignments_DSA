@@ -1,1 +1,1 @@
-# newton_School_Assignments
+# Newton_School_Assignments
