@@ -2,7 +2,7 @@ import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
 // don't change the name of this class
-// you can add inner classes if needed
+// you can add inner classes if neede
 class Main {
 	public static void main (String[] args) {
           Scanner I=new Scanner(System.in);
