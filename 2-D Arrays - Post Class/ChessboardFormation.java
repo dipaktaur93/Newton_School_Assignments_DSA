@@ -31,7 +31,7 @@ class Main {
 	{
         int N = b.length, rowSum = 0, colSum = 0, rowSwap = 0, colSwap = 0;
 
-        for (int i = 0; i < N; ++i) 
+        for (int i = 0; i < N; ++i)
 		{	
 			for (int j = 0; j < N; ++j)
             	
