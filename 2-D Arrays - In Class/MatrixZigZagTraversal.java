@@ -32,7 +32,7 @@ class Main {
             for (int i = row - 1; i >= 0; i--) {
                 if ((j + row - 1 - i) >= coloumn) {
                     break;
-                }
+                } 
                 System.out.print(metric[i][j + (row - 1 - i)] + " ");
             }
             System.out.println("");
